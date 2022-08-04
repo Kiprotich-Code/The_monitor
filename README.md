@@ -1,18 +1,11 @@
-# The_monitor
+What about the monitor ?
 
-It's not too bad to use technology to monitor the little processes, it's not good either.
-
-!Important Note
+- The android application tracks attendance and keeps records in real time. The implentation with it's scope 'a university's class' is based on a reasearch question ('Did the class happen ?') and time schedule provided by the institution's administration.
 
 1. Everyone / Anyone can contribute.
 2. Every directory must have a detailed README.md file at it's root.
 3. Every contribution MUST be accompanied by a clear and concise commit message.
 4. Every code MUST be well documented and formatted.
-
-
-What about the monitor ?
-
-- The android application tracks attendance and keeps records in real time. The implentation with it's scope 'a university's class' is based on a reasearch question ('Did the class happen ?') and time schedule provided by the institution's administration.
 
 How it works 
 
@@ -20,6 +13,7 @@ The mobile-based application pops-up a message on the phone of class representat
 
 
 Languages
+
 Java is the default programming language.
 It will be great to have other implementations too, like; Python(Kivy), Kotlin, Springboot or Flutter framework e.t.c
 However, every implementation should have it's own directory.
@@ -28,5 +22,6 @@ However, every implementation should have it's own directory.
 With Sincere Gratitude,
 
 Lawi Kiprotich & Herbert Kipkemoi
+
 Leave a star, share, follow
 Further advise: fleeklawi@gmail.com 
